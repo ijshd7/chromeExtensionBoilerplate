@@ -1,7 +1,7 @@
 {
-  "name": "Getting Started Example",
+  "name": "Isaiah's Extension",
   "version": "1.0",
-  "description": "Build an Extension!",
+  "description": "Completed Browser Extension Boilerplate",
   "permissions": ["activeTab", "declarativeContent", "storage"],
   "options_page": "options.html",
   "background": {
