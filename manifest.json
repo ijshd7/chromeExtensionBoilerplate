@@ -1,7 +1,7 @@
 {
-  "name": "Isaiah's Extension",
-  "version": "1.0",
-  "description": "Completed Browser Extension Boilerplate",
+  "name": "Izzy Extension",
+  "version": "1.1",
+  "description": "Isaiah's Browser Extension",
   "permissions": ["activeTab", "declarativeContent", "storage"],
   "options_page": "options.html",
   "background": {
